@@ -1,0 +1,5 @@
+{
+  "name": "Object Placer",
+  "description": "An interactive tool to place objects into images using AI-powered inpainting.",
+  "requestFramePermissions": []
+}
